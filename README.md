@@ -1,4 +1,7 @@
-# vue_todo
+# Todo App
+Todo App made with Vue.js.
+
+Visit site: [TodoList](https://sharp-hoover-456ec8.netlify.com/)
 
 ## Project setup
 ```
